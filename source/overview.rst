@@ -30,7 +30,7 @@ Here comes an exmple of k-mer analysis fo our Gnetum genome project. K-mer distr
 Input and Output
 --------------------------------------------------------------------------------
 
-To run survey package, you have to prepared two files. The first one is 'reads.list' file where each line stores the path for the reads files independently. Besides, you have to prepare a 'example.cfg' file, containing QC path(used for generating Reports), reads.list, output dir and all kinds of parameters.
+To run survey package, you have to prepare two files. The first one is 'reads.list' file where each line stores the path for the reads files independently. Besides, you have to prepare a 'example.cfg' file, containing QC path(used for generating Reports), reads.list, output dir and all kinds of parameters.
 
 For more information, you can refer to the part 'Config and Usage' under the section  *Examples* .
 
@@ -39,7 +39,7 @@ For more information, you can refer to the part 'Config and Usage' under the sec
 Parameters
 --------------------------------------------------------------------------------
 
-There are mainly **three steps** in survey, and all the important parameters were saved in the example.cfg file (see more details in the *Example* section). The parameters are shown as followed:
+There are **three main steps** in survey, and all the important parameters are saved in the example.cfg file (see more details in the *Example* section). The parameters are shown as followed:
 
 .. csv-table::
    :file: tables/para_summary.tsv

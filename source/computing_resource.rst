@@ -4,7 +4,7 @@ Computing Resource
 Survey
 --------------------------------------------------------------------------------
 
-We suggest 50Gb memory and 25 cpu for mecat alignment.
+We suggest 50 Gb memory and 25 cpu for a 850M genome. It will take roughly 20min.
 
 Assembly
 --------------------------------------------------------------------------------
@@ -25,5 +25,5 @@ For a genome ~850Mb size with 50x illumina shore reads, the storage for each fol
    :header-rows: 1
    :widths: 15, 10, 75
 
-To save you storage, you can nohup the shell 'delete_survey.sh' after you finished runpbjelly.
+To save you storage, you can nohup the shell 'delete_survey.sh' after you finished running survey.
 

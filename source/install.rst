@@ -3,13 +3,13 @@
 Installation
 ================================================================================
 
-It is easy to install the survey, you just have to unzip or copy the 'survey_v*.tar.gz' to you path:
-and enter commonds:
+It is easy to install the survey, you just have to copy the 'survey_v*.tar.gz' to you path:
+and enter commands:
 
 	> tar -zxvf survey_v1.3.tar.gz 
 
 Then, you have to assign the path of the survey package into you own .bashrc file, enter the above unzip folder
-and enther commonds:
+and enther commands:
 
 	> sh setup.sh
 	> source ~/.bashrc
