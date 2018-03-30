@@ -1,0 +1,17 @@
+Category	Sub-category	Description
+:ref:`Data`		set up names or dir for files
+	project_name	the project name
+	file_list	abs path for the file reads.list containg path for reads set
+	output_path	dir where you want to ouput all the results
+	QC_path	the path for the QC results where you can get clean data
+	QC_list	the file under QC paht, each row contaning library name and inser sizes(for example: lib_name(\\t)insert_size)
+:ref:`Cluster`		set up parameters for running jobs
+	survey_threads	cpu number set for survey
+	survey_vf	memory set for survey
+	assemble_threads	cpu number set for assembly
+	assemble_vf	memory set for assembly
+	qopts	parameters set for sge, for example -P
+:ref:`Program`		set up parameters for programs
+	max_read_length	the length of reads
+	assembly_kmer	the k-mer size for assembly, default:41
+

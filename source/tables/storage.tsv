@@ -1,0 +1,5 @@
+Folder	Storage	Description
+01Survey	11G	Store results for kmer analysis
+02Assemble	64G	Store results for assembly, including contigs and scaffolds
+03Coverage_contig	257M	Store the coverage and GC distributions results
+nanjimaobei.Survey.report	3.4M	Store reports for QC, kmer analysis and assembly
