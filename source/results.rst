@@ -16,17 +16,17 @@ Their introduction is as following tables(same as the table in **Storage** secti
 k-mer frequnce file
 --------------------------------------------------------------------------------
 
-After counting k-mers, survey output all the k-mers frequence in the file named '*.17merFreq' under the file folder '01Survey'. There are two figures for k-mers 'number' curve  and k-mers 'species' curve. Usually, 
-the value of 'num' = the value of 'spe' * coresponding k-mers depth.
+After counting k-mers, survey output all the k-mers frequence in the file named \'*.17merFreq\' under the file folder \'01Survey\'. There are two figures for k-mers \'number\' curve  and k-mers \'species\' curve. Usually, 
+the value of \'num\' = the value of \'spe\' X coresponding k-mers depth.
 
 
 
 Assemble sequences
 --------------------------------------------------------------------------------
 
-Besides, SOAPdenovo output the contig file named '*.contig' and the scaffolds file name '*.scafSeq' under the file folder '02Assemble'.
+Besides, SOAPdenovo output the contig file named \'\*.contig\' and the scaffolds file name \'\*.scafSeq\' under the file folder \'02Assemble\'.
 
-And the **coverge vs length** curve, **coverage vs GC** content curve were generated under the file folder '03Coverage_contig'.
+And the **coverge vs length** curve, **coverage vs GC** content curve were generated under the file folder \'03Coverage_contig\'.
 
 .. _Reports:
 
