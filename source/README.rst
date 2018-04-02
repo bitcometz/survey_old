@@ -12,3 +12,5 @@ Comparing to the old pipeline, the **advantages** of our new survey package are 
 	(c) Increasing the program's potability by changing absolute path to relative path;
 	(d) Adding necessary notes and help information, as well as a simple run log file;
 
+
+**(对于中文读者)** You can also download the `Chinese document <https://github.com/bitcometz/survey/raw/master/source/Survey_V1.3.docx>`__
